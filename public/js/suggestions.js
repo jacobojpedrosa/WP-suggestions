@@ -17,6 +17,4 @@ jQuery(document).ready(function($) {
 			$('.load-spinner').remove();
 		});
 	});
-
-
 });

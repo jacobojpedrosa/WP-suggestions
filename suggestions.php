@@ -49,8 +49,6 @@ function suggestions_activate(){
 	    add_option('my_db_version', $suggestions_db_version);
 	}
 
-
-
 }
 register_activation_hook(__FILE__,'suggestions_activate');
 
